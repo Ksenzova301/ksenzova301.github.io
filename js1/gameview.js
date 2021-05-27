@@ -1,4 +1,4 @@
-export const canvas = document.querySelector('#canvas')
+export const canvas = document.querySelector('#canvas1')
 const ctx = canvas.getContext('2d')
 const d = 3
 const tileWidth = canvas.width / d
